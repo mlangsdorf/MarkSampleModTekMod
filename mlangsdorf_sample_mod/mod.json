@@ -1,0 +1,13 @@
+{
+    "Name": "MlangsdorfSample",
+    "Enabled": true,
+
+    "Version": "1.0",
+    "Description": "A sample mod that adds new mechs and alters existing ones",
+    "Author": "mlangsdorf",
+    "Contact": "mark.langsdorf@gmail.com",
+	"Manifest": [
+        { "Type": "MechDef", "Path": "mymech" },
+        { "Type": "ChassisDef", "Path": "mychassis" }
+    ]
+}

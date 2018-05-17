@@ -1,0 +1,18 @@
+{
+	"Finances": {
+		"DefaultShopMaxInventory" : 75
+	},
+        "Story" : {
+		"ContractDifficultyVariance" : 4,
+		"MaxContractsPerSystem" : 7,
+		"ContractRenewalPerWeek" : 2,
+		"DefaultContractRefreshRate" : 15,
+		"StartingPlayerMech" : "mechdef_phoenixhawk_PXH-1",
+		"StartingLance" : [
+			"mechdef_vindicator_VND-1R",
+			"mechdef_shadowhawk_SHD-2D",
+			"mechdef_valkerie_VLK-QA",
+			"mechdef_locust_LST-1V"
+		]
+	}
+}
